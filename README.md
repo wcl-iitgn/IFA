@@ -1,4 +1,4 @@
-# Drought Atlas of India
+# India Flood Atlas
 Dashboard: https://indiafloodatlas.in/
 
 
